@@ -1,10 +1,10 @@
-# 二手物品交易管理系统
+# 二手物品交易管理系统5
 
 ## 获取方式
 
-扫描下方，回复关键词  ：**二手5** ，获取完整版源码
+下方扫一扫关注后，后台回复关键词：**二手**，查看导入教程视频、sql脚本和源码等
 
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -35,49 +35,41 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208050951282.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202208050951282.jpg)
 
 ### 4.2前端 模块
 
-![首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208050951515.jpg)
+![首页](https://www.codeshop.fun/Typora-Images/202208050951515.jpg)
 
-![前端-分类查看](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208050952407.jpg)
+![前端-分类查看](https://www.codeshop.fun/Typora-Images/202208050952407.jpg)
 
-![物品详情](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208050952758.jpg)
+![物品详情](https://www.codeshop.fun/Typora-Images/202208050952758.jpg)
 
 ### 4.3 用户模块
 
-![用户-购物车](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208050952310.jpg)
+![用户-购物车](https://www.codeshop.fun/Typora-Images/202208050952310.jpg)
 
-![用户-个人订单](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208050952638.jpg)
+![用户-个人订单](https://www.codeshop.fun/Typora-Images/202208050952638.jpg)
 
-![用户-留言](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208050952129.jpg)
+![用户-留言](https://www.codeshop.fun/Typora-Images/202208050952129.jpg)
 
 ### 4.4管理员 模块
 
-![管理员-订单管理1](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208050952052.jpg)
+![管理员-订单管理1](https://www.codeshop.fun/Typora-Images/202208050952052.jpg)
 
-![管理员-订单管理2](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208050952354.jpg)
+![管理员-订单管理2](https://www.codeshop.fun/Typora-Images/202208050952354.jpg)
 
-![管理员-分类管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208050952400.jpg)
+![管理员-分类管理](https://www.codeshop.fun/Typora-Images/202208050952400.jpg)
 
-![管理员-留言管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208050952697.jpg)
+![管理员-留言管理](https://www.codeshop.fun/Typora-Images/202208050952697.jpg)
 
-![管理员-回复留言](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208050952317.jpg)
+![管理员-回复留言](https://www.codeshop.fun/Typora-Images/202208050952317.jpg)
 
-![管理员-商品管理 ](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208050952235.jpg)
+![管理员-商品管理 ](https://www.codeshop.fun/Typora-Images/202208050952235.jpg)
 
-![管理员-添加商品](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208050952313.jpg)
+![管理员-添加商品](https://www.codeshop.fun/Typora-Images/202208050952313.jpg)
 
-![管理员-新闻管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208050953243.jpg)
+![管理员-新闻管理](https://www.codeshop.fun/Typora-Images/202208050953243.jpg)
 
-![管理员-用户管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208050953761.jpg)
-
-## 5、获取方式
-
-扫描下方，回复关键词  ：**二手5** ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+![管理员-用户管理](https://www.codeshop.fun/Typora-Images/202208050953761.jpg)
 
